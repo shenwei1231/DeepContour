@@ -36,7 +36,8 @@ c) Additionally, Piotr's Matlab Toolbox and Piotr's Structured Edge Detection To
 d) Finally, optionally download the BSDS500 dataset (necessary for evaluation):
  http://www.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/
  After downloading BSR/ should contain BSDS500, bench, and documentation.
-
+ The path of the BSDS500 dataset should be YourCodePath/BSR/BSDS500/data/
+ 
 e) A fully trained deep contour model (deep_contour_model) for RGB images is available as part of this release. The architecture of the used deep network is described in deploy_cov4.prototxt.
 
 ###################################################################
