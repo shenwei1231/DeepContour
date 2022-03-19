@@ -28,7 +28,7 @@ Please follow the license terms included in Structured Edge Detection Toolbox [1
 
 a) This code is written for the Matlab interpreter (tested with versions R2014a on Windows 7) and requires the Matlab Image Processing Toolbox and CUDA Toolkit (version 6.0 or later). 
 
-b) First, download the binary dependencies from https://drive.google.com/file/d/0BwU2lgiGMpBmQmpGT3BudmV2Yms/view?usp=sharing and unzip them into the folder "bin".
+b) First, download the binary dependencies from https://drive.google.com/file/d/0BwU2lgiGMpBmQmpGT3BudmV2Yms/view?usp=sharing&resourcekey=0--kgaxYn1AkBAgmwaj6zZhQ and unzip them into the folder "bin".
 
 c) Additionally, Piotr's Matlab Toolbox and Piotr's Structured Edge Detection Toolbox are also required. They can be downloaded at:
  http://vision.ucsd.edu/~pdollar/toolbox/doc/index.html and https://github.com/pdollar/edges respectively.
